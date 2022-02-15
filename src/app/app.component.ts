@@ -35,7 +35,7 @@ export class AppComponent {
       firstName: {
         required: "Please enter your first name"
       },
-      lastName: {
+      SurName: {
         required: "Please enter your last name"
       },
       email: {
